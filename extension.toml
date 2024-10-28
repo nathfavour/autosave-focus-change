@@ -1,0 +1,7 @@
+id = "autosave-focus-change"
+name = "autosave-focus-change"
+version = "0.0.1"
+schema_version = 1
+authors = ["nathfavour <116535483+nathfavour@users.noreply.github.com>"]
+description = "autosave on focus change"
+repository = "https://github.com/nathfavour/autosave-focus-change"
